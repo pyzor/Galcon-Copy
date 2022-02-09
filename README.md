@@ -1,4 +1,4 @@
 # Galcon-Copy
-test assignment for a job applying
+test assignment for a job applyment
 
 ![](demo.gif)
